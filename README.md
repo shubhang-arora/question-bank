@@ -9,6 +9,7 @@ This aims to create a web portal to add/review Questions. Developed using Larave
 - Manage Users(Admins)
 - User Dashboard
 - Display Questions
+- Edit Questions
 
 ### Use
 
